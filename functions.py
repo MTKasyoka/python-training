@@ -67,3 +67,5 @@ else:
         print('Acess denied')
 
 correct_password(12223)
+
+print("Something new")
